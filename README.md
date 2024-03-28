@@ -58,6 +58,6 @@ Once the server is running, open a web browser and go to `http://localhost:8000/
 
 ## License
 
-This project is licensed under the [License](Apache.LICENSE.2.0).
+This project is licensed under the [License](Apache-2.0 license).
 
 ---
